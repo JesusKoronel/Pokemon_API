@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/degradado_splash">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/pika" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginBottom="40dp"
+        android:indeterminateTint="#FFD700" />
+
+    <soup.neumorphism.NeumorphButton
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        app:neumorph_shadowElevation="6dp"
+        app:neumorph_shadowColorLight="@color/white"
+        app:neumorph_shadowColorDark="@color/cardview_dark_background"
+        app:neumorph_backgroundColor="@color/purple_700"
+        app:neumorph_strokeColor="@color/purple_200"/>
+</RelativeLayout>

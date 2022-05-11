@@ -1,0 +1,6 @@
+
+k
+java:S1450"URemove the "number" field and declare it as a local variable in the relevant methods.(÷’’í
+@
+java:S1068"*Remove this unused "number" private field.(÷’’í
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•Çšºþÿÿÿÿ

@@ -1,0 +1,16 @@
+
+~
+java:S1192 "cDefine a constant instead of duplicating this literal "https://pokeapi.co/api/v2/pokemon/" 3 times.( Á­şÿÿÿÿ
+a
+java:S11921"FDefine a constant instead of duplicating this literal "ENTRO" 3 times.(£şÄ¯ıÿÿÿÿ
+c
+java:S11921"HDefine a constant instead of duplicating this literal "Error: " 3 times.(£şÄ¯ıÿÿÿÿ
+9
+java:S1643-"Use a StringBuilder instead.(áÎ»8ë£³/
+>
+java:S1643Q"Use a StringBuilder instead.(•°ÙÀüÿÿÿÿ8Ş¤”³/
+>
+java:S1643R"Use a StringBuilder instead.(íü÷¤ÿÿÿÿÿ8Ş¤”³/
+9
+java:S1643v"Use a StringBuilder instead.(Ç®‹É8ôˆ•³/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éèÒ

@@ -1,0 +1,12 @@
+
+E
+java:S16566"/Remove or correct this useless self-assignment.(™’ß
+P
+java:S1068"5Remove this unused "presenterDetalles" private field.(Ô„ÒŞûÿÿÿÿ
+’
+java:S1319d"wThe type of the "listaPokemon" object should be an interface such as "List" rather than the implementation "ArrayList".(³Õö•ûÿÿÿÿ
+>
+java:S1604<"(Make this anonymous inner class a lambda(Ö¹™º
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß¡İê
+v
+java:S41656"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(™’ß

@@ -1,0 +1,14 @@
+
+Y
+java:S1874\">Remove this use of "setDrawingCacheEnabled"; it is deprecated.(˚™ò˘ˇˇˇˇ
+T
+java:S1874_"9Remove this use of "buildDrawingCache"; it is deprecated.(Ø ¬µ˚ˇˇˇˇ
+R
+java:S1874a"7Remove this use of "getDrawingCache"; it is deprecated.(≥ﬂ≥Â˙ˇˇˇˇ
+T
+java:S1874b"7Remove this use of "getDrawingCache"; it is deprecated.(Îé ñ8õŸæˇΩ/
+T
+java:S1874c">Remove this use of "setDrawingCacheEnabled"; it is deprecated.(∂¸«˝
+T
+java:S1155p">Use isEmpty() to check whether the collection is empty or not.(êΩÀ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ﬂ°›Í
